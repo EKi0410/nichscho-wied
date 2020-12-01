@@ -1,4 +1,4 @@
-# nichscho-wied
+# nichscho-wied v0.1
 
 moin meister
 
