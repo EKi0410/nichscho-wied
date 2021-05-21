@@ -1,4 +1,4 @@
-# nichscho-wied v1.1
+# NSW v1.1
 
 moin meister
 
